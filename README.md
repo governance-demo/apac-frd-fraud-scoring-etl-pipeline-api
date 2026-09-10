@@ -1,2 +1,6 @@
 # apac-frd-fraud-scoring-etl-pipeline-api
-fraud-and-risk / standard / apac
+
+Team: **fraud-and-risk**  
+Tier: **standard**  
+Region: **apac**  
+Synthetic demo repo for the Domo governance platform.
